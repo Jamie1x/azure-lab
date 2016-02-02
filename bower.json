@@ -1,25 +1,25 @@
 {
-  "name": "comp392-lesson4-azure",
+  "name": "COMP392-Lesson4-Azure",
+  "homepage": "https://github.com/Jamie1x/azure-lab",
   "authors": [
-    "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>"
+    "Jamie1x <jkennedy1x@gmail.com>"
   ],
-  "description": "COMP392-Lesson4-Azure for Advanced Graphics",
+  "description": "",
   "main": "",
   "moduleType": [],
   "license": "MIT",
-  "homepage": "https://github.com/CentennialCollege/COMP392-Lesson4-Azure",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
+    "Scripts/lib",
     "test",
-    "tests",
-    "Scripts/lib"
+    "tests"
   ],
   "dependencies": {
-    "three.js": "threejs#*",
     "dat-gui": "~0.5.1",
     "stats.js": "*",
+    "three.js": "threejs#*",
     "threex.colliders": "*"
   }
 }
